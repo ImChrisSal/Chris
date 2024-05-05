@@ -1,6 +1,6 @@
 var typed = new Typed('.typed-text', {
     strings: [
-      'Licensed Financial Advisor', 
+      'Financial Advisor', 
       'Your Partner for life.', 
     ],
     typeSpeed: 150,
