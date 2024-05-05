@@ -30,7 +30,7 @@ nav{
 }
 
 .logo{
-    width: 160px;
+    width: 100px;
     cursor: default;
     opacity: 0;
     animation: slideRight 5s ease forwards;
@@ -84,7 +84,7 @@ nav ul li a:hover::after{
 
 }
 .header-text h3 span{
-    color: #ecab23;
+    color: #fab92d;
 }
 .header-text h1{
     font-size: 56px;
@@ -95,7 +95,7 @@ nav ul li a:hover::after{
     animation-delay: 0.5s;
 }
 .header-text h1{
-    color: #ece255;
+    color: #fca607;
     text-shadow: 0 10px 25px rgba(0,0,0,.5); 
     -webkit-text-stroke-color: #000000;
 }
@@ -124,24 +124,6 @@ nav ul li a:hover::after{
     background: #fff; 
     color: #081b21;
     box-shadow: 0 0 20px #0ef;
-}
-.registration a{
-    display: inline-block;
-    padding: 12px 28px;
-    background: #fff;
-    border-radius: 30px;
-    font-size: 20px;
-    margin-top: 5px;
-    color: #0c0c0c;
-    letter-spacing: 1px;
-    font-weight: 600;
-   
-}
-.registration a:hover {
-    cursor: pointer;
-    box-shadow: 0 0 5px #0ef,
-    0 0 25px #0ef, 0 0 50px #0ef,
-    0 0 100px #0ef, 0 0 200px #0ef
 }
 .header-text h1 span{
     color: #ff004f;
