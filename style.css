@@ -84,7 +84,7 @@ nav ul li a:hover::after{
 
 }
 .header-text h3 span{
-    color: #fa08fa;
+    color: #fab92d;
 }
 .header-text h1{
     font-size: 56px;
@@ -95,7 +95,7 @@ nav ul li a:hover::after{
     animation-delay: 0.5s;
 }
 .header-text h1{
-    color: #ffffff;
+    color: #fca607;
     text-shadow: 0 10px 25px rgba(0,0,0,.5); 
     -webkit-text-stroke-color: #000000;
 }
