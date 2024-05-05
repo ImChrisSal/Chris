@@ -129,8 +129,6 @@ nav ul li a:hover::after{
     color: #ff004f;
 }
 .registration p{
-    padding: 0 1px;
-    margin-top: 0px;
     font-size: 15px;
 }
 /*----------about-----------*/
