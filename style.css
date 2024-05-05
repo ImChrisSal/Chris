@@ -184,6 +184,10 @@ form .btn2{
 .copyright i{
     color: #ff004f;
 }
+.registration a.img{
+    margin-top: 0px;
+
+}
 /*-------------------css for small screen-------------*/
 nav .fa-solid{
     display: none;
